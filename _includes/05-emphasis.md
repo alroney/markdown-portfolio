@@ -1,2 +1,2 @@
-**My Attributes**
-*Detail Oriented*, *Quickly Adaptable*, *Leadership*
+**My Attributes**<br>
+*Detail Oriented*, *Quickly Adaptable*, *Leadership Skills*, *Patient*, *Creative*
